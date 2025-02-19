@@ -2,13 +2,14 @@
 
 The File Hash Generator is a Python application that allows users to calculate and display hash values for a selected file. It computes three types of hash algorithms:
 
-MD5
+1. MD5
 
-SHA-1
+2. SHA-1
 
-SHA-256
+3. SHA-256
 
 The program also provides the option to copy each hash value to the clipboard and displays them in a graphical user interface (GUI) built using Tkinter.
+
 
 Features
 
@@ -21,6 +22,8 @@ Features
 4. Clear the displayed hash values with the "Clear Hashes" button.
 
 5. Access the End User License Agreement (EULA) through a dedicated button.
+6. 
+
 
 Installation
 
@@ -51,6 +54,7 @@ Open your terminal or command prompt, navigate to the directory containing the s
 python file_hash_generator.py
 
 The application window will appear, and you can begin selecting files to generate hash values.
+
 
 Usage
 
