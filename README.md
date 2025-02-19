@@ -22,36 +22,35 @@ Features
 4. Clear the displayed hash values with the "Clear Hashes" button.
 
 5. Access the End User License Agreement (EULA) through a dedicated button.
-6. 
 
 
 Installation
 
 Step 1: Install Python
 
-If you haven't installed Python already, download and install it from the official Python website.
+  If you haven't installed Python already, download and install it from the official Python website.
 
 Step 2: Install Dependencies
 
-The required libraries come pre-installed with Python. You do not need to install additional packages if you have Python 3.x installed.
+  The required libraries come pre-installed with Python. You do not need to install additional packages if you have Python 3.x installed.
 
 Step 3: Running the Application
 
-Clone or Download the Repository:
+  Clone or Download the Repository:
 
-If you're using a version control system like Git:
+  If you're using a version control system like Git:
 
-git clone https://your-repository-link.git
+  git clone https://your-repository-link.git
 
-cd your-repository
+  cd your-repository
 
 Alternatively, download the source code as a .exe and run it
 
 Run the Script:
 
-Open your terminal or command prompt, navigate to the directory containing the script, and run:
+  Open your terminal or command prompt, navigate to the directory containing the script, and run:
 
-python file_hash_generator.py
+  python file_hash_generator.py
 
 The application window will appear, and you can begin selecting files to generate hash values.
 
